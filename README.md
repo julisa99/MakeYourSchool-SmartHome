@@ -21,7 +21,7 @@ Stecke jeweils einen männlichen Jumperkabel in einen weiblichen Jumperkabel. Da
 ![grafik](https://user-images.githubusercontent.com/8758907/121437614-ea5fa400-c982-11eb-89ee-417fe2a434c8.png)
 5. Wähle unter "Werkzeuge" die Schaltfläche "Board" und dort den "ESP32 Dev Module" aus.
 ![grafik](https://user-images.githubusercontent.com/8758907/121437842-34488a00-c983-11eb-88c9-7b3c792171d1.png)
-6. Öffne die MakeYourSchool-SmartHome.ino in der Arduino IDE.
+6. Öffne die [MakeYourSchool-SmartHome.ino](https://github.com/julisa99/MakeYourSchool-SmartHome/blob/main/MakeYourSchool-SmartHome.ino) in der Arduino IDE.
 7. Trage in Zeile 10 deine entsprechenden Zugangsdaten für dein WLAN ein.
 8. Installiere die zwei verwendeten Bibliotheken. Gehe dafür unter "Sketch" auf "Bibliothek einbinden" und dann "Bibliothek verwalten". Drt gibst du im Suchfeld "espalexa" ein und klickst auf "Installieren". Danach gibst du im Suchfeld "Adafruit NeoPixel" ein und installierst diese Bibliothek auch.
 9. Schließe dein ESP32 Dev Board mit dem Mikro-USB-Kabel an deinen Computer an.
